@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bray
+# Hi there 👋, I'm Brian Mworia
 ## Web Developer 🐍// Community Taught 🎓// 90s R&B 🎶
 <!--
 **mworia-Br/mworia-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
