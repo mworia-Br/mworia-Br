@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Brian Mworia
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Brian Mworia
 ## Web Developer 🐍// Community Taught 🎓// 90s R&B 🎶
 <!--
 **mworia-Br/mworia-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
