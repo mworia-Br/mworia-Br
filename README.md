@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on cool projects to add on my portfolio(https://mworia.pythonanywhere.com/)
+- 🔭 I’m currently working on cool projects to add to my portfolio(https://mworia.pythonanywhere.com/)
 - 🌱 I’m currently learning React, React Native
 - 👯 I’m looking to build web projects and fix bugs🐞
 - 📝 Blogs about web development: (https://ngangabrian.hashnode.dev/)
