@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
-<!--
-## Backend Developer 🐍// Community Taught 🎓 
 
+## DevOps | API Development | Scalable On-premise and Cloud Infrastructure
+<!--
 **mworia-Br/mworia-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
