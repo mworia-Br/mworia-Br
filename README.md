@@ -13,4 +13,4 @@ Here are some ideas to get you started:
   
 - ⚡ Fun fact: "The best programs are the ones written when the programmer is supposed to be working on something else." — Melinda Varian
 
-<img src="https://img.icons8.com/color/2x/twitter--v2.gif" width="20px"> Follow me on X: https://twitter.com/mworia_br
+<img src="https://img.icons8.com/color/2x/twitter--v2.gif" width="20px"> Follow me on X: [https://x.com/mworia_br](https://x.com/mworia_br)
