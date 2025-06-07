@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 📝 Blogs about web development: (https://ngangabrian.hashnode.dev/)
+- 📝 Blogs about web development: (https://www.linkedin.com/in/mworia-br/)
 - 💬 Ask me about Django, Kotlin
 - 📫 How to reach me: briannganga70@gmail.com
   
